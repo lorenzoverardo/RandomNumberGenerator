@@ -1,0 +1,10 @@
+D:\Lorenzo\Desktop\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\Random Number Generator.exe.config
+D:\Lorenzo\Desktop\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\Random Number Generator.exe
+D:\Lorenzo\Desktop\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\Random Number Generator.pdb
+D:\Lorenzo\Desktop\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csprojAssemblyReference.cache
+D:\Lorenzo\Desktop\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.Home.resources
+D:\Lorenzo\Desktop\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.Properties.Resources.resources
+D:\Lorenzo\Desktop\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csproj.GenerateResource.cache
+D:\Lorenzo\Desktop\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csproj.CoreCompileInputs.cache
+D:\Lorenzo\Desktop\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\Random Number Generator.exe
+D:\Lorenzo\Desktop\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\Random Number Generator.pdb
